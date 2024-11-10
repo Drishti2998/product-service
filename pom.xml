@@ -104,6 +104,7 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
+					<finalName>product-service</finalName>    
 				</configuration>
 			</plugin>
 		</plugins>
